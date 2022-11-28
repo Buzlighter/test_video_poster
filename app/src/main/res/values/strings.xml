@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">test_video_poster</string>
+    <string name="error">"ERROR TO CONNECT</string>
 </resources>
